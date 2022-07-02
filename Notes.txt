@@ -1,0 +1,1 @@
+-This project predicts if a person is able to take a loan from your institution or not
